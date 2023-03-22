@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints 50 fibonacci numbers starting with 1 and 2 separated by comma then space
+ * main - prints 50 fibonacci numbers
  *
  * Return: 0 success
  */
@@ -18,7 +18,7 @@ int main(void)
 		if (count == 49)
 			printf("\n");
 		else
-			printf(",");
+			printf(", ");
 	}
 	return (0);
 }
