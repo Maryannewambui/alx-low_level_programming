@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - prints 50 fibonacci numbers starting with 1 and 2 separated by comma then space
  *
  * Return: 0 success
  */
@@ -20,4 +20,5 @@ int main(void)
 		else
 			printf(",");
 	}
+	return (0);
 }
