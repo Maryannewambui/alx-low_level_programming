@@ -1,12 +1,12 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - prints from 1 to 100 folloewd by a new line 
+ * main - prints from 1 to 100 folloewd by a new line
  * but for multiples of three prints Fizz instead of numbers
  * and multiple of five prints Buzz
  * Return: 0 success
  */
-int main (void)
+int main(void)
 {
 	int i;
 
